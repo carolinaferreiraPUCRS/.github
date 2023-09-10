@@ -1,5 +1,5 @@
 # Disciplinas do Curso de Engenharia de Software (98AL) da PUCRS
-* Primeiro Semestre (2022/1)
+* **Primeiro Semestre** (2022/1)
   * [Cálculo I](https://github.com/carolinaferreiraPUCRS/CalculoI)
 * Segundo Semestre (2022/2)
   * [Banco de Dados I](https://github.com/carolinaferreiraPUCRS/BancoDeDadosI)
