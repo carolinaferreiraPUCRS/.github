@@ -8,3 +8,4 @@
   * [Gerenciamento de Configuração de Software](https://github.com/carolinaferreiraPUCRS/GerenciamentoConfigSoftware)
 * **Terceiro Semestre** (2023/1)
 * **Quarto Semestre** (2023/2)
+  * [Algoritmos e Estruturas de Dados II](https://github.com/carolinaferreiraPUCRS/AlgoritmosII)
