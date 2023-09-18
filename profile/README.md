@@ -22,7 +22,7 @@
   * [Processos de Software]
 * **Quarto Semestre** (2023/2)
   * [Algoritmos e Estruturas de Dados II](https://github.com/carolinaferreiraPUCRS/AlgoritmosII)
-  * [Computação Gráfica]
+  * [Computação Gráfica](https://github.com/carolinaferreiraPUCRS/CompGrafica)
   * [Fundamentos de Processamento Paralelo e Distribuído]
   * [Laboratório de Games e Narrativas Gráficas]
   * [Linguagens de Programação]
