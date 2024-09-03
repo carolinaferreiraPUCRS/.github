@@ -25,4 +25,4 @@
   * [Computação Gráfica](https://github.com/carolinaferreiraPUCRS/CompGrafica)
   * [Fundamentos de Processamento Paralelo e Distribuído](https://github.com/carolinaferreiraPUCRS/FPPD)
   * [Laboratório de Games e Narrativas Gráficas]
-  * [Linguagens de Programação]
+  * [Linguagens de Programação](https://github.com/carolinaferreiraPUCRS/Linguagens_De_Programacao)
