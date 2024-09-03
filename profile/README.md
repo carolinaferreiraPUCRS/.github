@@ -11,8 +11,8 @@
   * [Engenharia de Requisitos](https://github.com/carolinaferreiraPUCRS/EngenhariaDeRequisitos)
   * [Fundamentos de Sistemas Computacionais](https://github.com/carolinaferreiraPUCRS/FundamentosDeSistemasComputacionais)
   * [Gerenciamento de Configuração de Software](https://github.com/carolinaferreiraPUCRS/GerenciamentoConfigSoftware)
-  * [Lógica para Computação]
-  * [Programação Orientada a Objetos]
+  * [Lógica para Computação](https://github.com/carolinaferreiraPUCRS/Logica_Computacao)
+  * [Programação Orientada a Objetos](https://github.com/carolinaferreiraPUCRS/POO)
 * **Terceiro Semestre** (2023/1)
   * [Algoritmos e Estrutura de Dados I]
   * [Banco de Dados II]
