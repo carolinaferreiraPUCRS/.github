@@ -1,11 +1,11 @@
 # Disciplinas do Curso de Engenharia de Software (98AL) da PUCRS
 * **Primeiro Semestre** (2022/1)
   * [Cálculo I](https://github.com/carolinaferreiraPUCRS/CalculoI)
-  * [Formação do Empreendedor]
-  * [Fundamentos da Programação]
-  * [Introdução à Computação]
-  * [Introdução à Engenharia de Software]
-  * [Matemática Discreta]
+  * [Formação do Empreendedor](https://github.com/carolinaferreiraPUCRS/Formacao_Empreendedor)
+  * [Fundamentos da Programação](https://github.com/carolinaferreiraPUCRS/Fundamentos_Programacao)
+  * [Introdução à Computação](https://github.com/carolinaferreiraPUCRS/Introducao_Computacao)
+  * [Introdução à Engenharia de Software](https://github.com/carolinaferreiraPUCRS/Introducao_ES)
+  * [Matemática Discreta](https://github.com/carolinaferreiraPUCRS/Matematica_Discreta)
 * **Segundo Semestre** (2022/2)
   * [Banco de Dados I](https://github.com/carolinaferreiraPUCRS/BancoDeDadosI)
   * [Engenharia de Requisitos](https://github.com/carolinaferreiraPUCRS/EngenhariaDeRequisitos)
