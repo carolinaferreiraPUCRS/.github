@@ -26,3 +26,16 @@
   * [Fundamentos de Processamento Paralelo e Distribuído](https://github.com/carolinaferreiraPUCRS/FPPD)
   * [Laboratório de Games e Narrativas Gráficas]
   * [Linguagens de Programação](https://github.com/carolinaferreiraPUCRS/Linguagens_De_Programacao)
+* **Quinto Semestre** (2024/1)
+  * [Gerenciamento de Projeto de Software]
+  * [Prática na Agência Experimental II (120 horas)]
+  * [Projeto e Arquitetura de Software]
+  * [Sistemas Operacionais]
+  * [Verificação e Validação de Software]
+* **Sexto Semestre** (2024/2)
+  * [Construção de Software]
+  * [Experiência do Usuário]
+  * [Fundamentos de Redes de Computadores]
+  * [Laboratórios de Redes de Computadores]
+  * [Projeto e Otimização de Algoritmos]
+  * [Sistemas de Planejamento E Custos Para Engenharia]
