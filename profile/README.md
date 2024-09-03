@@ -14,12 +14,12 @@
   * [Lógica para Computação](https://github.com/carolinaferreiraPUCRS/Logica_Computacao)
   * [Programação Orientada a Objetos](https://github.com/carolinaferreiraPUCRS/POO)
 * **Terceiro Semestre** (2023/1)
-  * [Algoritmos e Estrutura de Dados I]
-  * [Banco de Dados II]
-  * [Linguagens, Autômatos e Computação]
-  * [Prática na Agência Experimental I (120 horas)]
-  * [Probabilidade e Estatística]
-  * [Processos de Software]
+  * [Algoritmos e Estrutura de Dados I](https://github.com/carolinaferreiraPUCRS/AlgoritmosI)
+  * [Banco de Dados II](https://github.com/carolinaferreiraPUCRS/BancoDeDadosII)
+  * [Linguagens, Autômatos e Computação](https://github.com/carolinaferreiraPUCRS/Linguagens_Automatos)
+  * [Prática na Agência Experimental I (120 horas)](https://github.com/carolinaferreiraPUCRS/AGESI)
+  * [Probabilidade e Estatística](https://github.com/carolinaferreiraPUCRS/Probabilidade_Estatistica)
+  * [Processos de Software](https://github.com/carolinaferreiraPUCRS/Processos_Software)
 * **Quarto Semestre** (2023/2)
   * [Algoritmos e Estruturas de Dados II](https://github.com/carolinaferreiraPUCRS/AlgoritmosII)
   * [Computação Gráfica](https://github.com/carolinaferreiraPUCRS/CompGrafica)
@@ -27,15 +27,15 @@
   * [Laboratório de Games e Narrativas Gráficas]
   * [Linguagens de Programação](https://github.com/carolinaferreiraPUCRS/Linguagens_De_Programacao)
 * **Quinto Semestre** (2024/1)
-  * [Gerenciamento de Projeto de Software]
-  * [Prática na Agência Experimental II (120 horas)]
-  * [Projeto e Arquitetura de Software]
-  * [Sistemas Operacionais]
-  * [Verificação e Validação de Software]
+  * [Gerenciamento de Projeto de Software](https://github.com/carolinaferreiraPUCRS/Gerenciamento_Projeto)
+  * [Prática na Agência Experimental II (120 horas)](https://github.com/carolinaferreiraPUCRS/AGESII)
+  * [Projeto e Arquitetura de Software](https://github.com/carolinaferreiraPUCRS/Projeto_Arquitetura)
+  * [Sistemas Operacionais](https://github.com/carolinaferreiraPUCRS/Sistemas_Operacionais)
+  * [Verificação e Validação de Software](https://github.com/carolinaferreiraPUCRS/Verificacao_Validacao)
 * **Sexto Semestre** (2024/2)
-  * [Construção de Software]
-  * [Experiência do Usuário]
-  * [Fundamentos de Redes de Computadores]
-  * [Laboratórios de Redes de Computadores]
-  * [Projeto e Otimização de Algoritmos]
-  * [Sistemas de Planejamento E Custos Para Engenharia]
+  * [Construção de Software](https://github.com/carolinaferreiraPUCRS/Construcao_Software)
+  * [Experiência do Usuário](https://github.com/carolinaferreiraPUCRS/Experiencia_Usuario)
+  * [Fundamentos de Redes de Computadores](https://github.com/carolinaferreiraPUCRS/Fundamentos_Redes)
+  * [Laboratórios de Redes de Computadores](https://github.com/carolinaferreiraPUCRS/Lab_Redes)
+  * [Projeto e Otimização de Algoritmos](https://github.com/carolinaferreiraPUCRS/Projeto_Otimizacao)
+  * [Sistemas de Planejamento E Custos Para Engenharia](https://github.com/carolinaferreiraPUCRS/Custos)
