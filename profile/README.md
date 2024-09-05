@@ -28,7 +28,7 @@
   * [Linguagens de Programação](https://github.com/carolinaferreiraPUCRS/Linguagens_De_Programacao)
 * **Quinto Semestre** (2024/1)
   * [Gerenciamento de Projeto de Software](https://github.com/carolinaferreiraPUCRS/Gerenciamento_Projeto)
-  * [Prática na Agência Experimental II (120 horas)](https://github.com/carolinaferreiraPUCRS/AGESII)
+  * [Prática na Agência Experimental II (120 horas)](https://github.com/carolinaferreiraPUCRS/AGES2)
   * [Projeto e Arquitetura de Software](https://github.com/carolinaferreiraPUCRS/Projeto_Arquitetura)
   * [Sistemas Operacionais](https://github.com/carolinaferreiraPUCRS/Sistemas_Operacionais)
   * [Verificação e Validação de Software](https://github.com/carolinaferreiraPUCRS/Verificacao_Validacao)
