@@ -41,3 +41,6 @@
   * [Sistemas de Planejamento E Custos Para Engenharia](https://github.com/carolinaferreiraPUCRS/Custos)
 * **Sétimo Semestre** (2025/1)
   * [Programação de Software Básico](https://github.com/carolinaferreiraPUCRS/Programacao_Software_Basico)
+  * [Inteligência Artifical](https://github.com/carolinaferreiraPUCRS/Inteligencia_Artifical)
+  * [Melhorias de Processos de Software](https://github.com/carolinaferreiraPUCRS/Melhorias_Processos_Software)
+    
