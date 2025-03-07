@@ -40,4 +40,4 @@
   * [Projeto e Otimização de Algoritmos](https://github.com/carolinaferreiraPUCRS/Projeto_Otimizacao)
   * [Sistemas de Planejamento E Custos Para Engenharia](https://github.com/carolinaferreiraPUCRS/Custos)
 * **Sétimo Semestre** (2025/1)
-  * [Programação de Software Básico](https://github.com/carolinaferreiraPUCRS/Programaca_Software_Basico)
+  * [Programação de Software Básico](https://github.com/carolinaferreiraPUCRS/Programacao_Software_Basico)
