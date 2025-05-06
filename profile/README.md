@@ -44,4 +44,7 @@
   * [Inteligência Artifical](https://github.com/carolinaferreiraPUCRS/Inteligencia_Artifical)
   * [Melhorias de Processos de Software](https://github.com/carolinaferreiraPUCRS/Melhoria_Processos_Software)
   * [Cultura Digital](https://github.com/carolinaferreiraPUCRS/Cultura_Digital)
+  * [Prática na Agência Experimental III (120 horas)](https://github.com/carolinaferreiraPUCRS/AGES3)
+  * [Simulação e Métodos Analíticos](https://github.com/carolinaferreiraPUCRS/Metodos_Analiticos)
+  * [Engenharia Econômica](https://github.com/carolinaferreiraPUCRS/Engenharia_Economica)
     
