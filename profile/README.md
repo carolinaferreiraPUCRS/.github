@@ -42,6 +42,6 @@
 * **Sétimo Semestre** (2025/1)
   * [Programação de Software Básico](https://github.com/carolinaferreiraPUCRS/Programacao_Software_Basico)
   * [Inteligência Artifical](https://github.com/carolinaferreiraPUCRS/Inteligencia_Artifical)
-  * [Melhorias de Processos de Software](https://github.com/carolinaferreiraPUCRS/Melhorias_Processos_Software)
+  * [Melhorias de Processos de Software](https://github.com/carolinaferreiraPUCRS/Melhoria_Processos_Software)
   * [Cultura Digital](https://github.com/carolinaferreiraPUCRS/Cultura_Digital)
     
